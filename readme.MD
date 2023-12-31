@@ -9,10 +9,10 @@ The "Block Material" add-on is a practical tool for Blender users, designed to e
    + HSV Color Adjustment: Provides control over the saturation and value of generated colors, enabling versatility in material appearance  
 
 ### Installation Steps
-   Download the .py file of the add-on.  
-   Launch Blender and navigate to Edit > Preferences > Add-ons.  
-   Select Install and locate the downloaded file.  
-   Activate the add-on by ticking the adjacent box in the list.  
+   1. Download the .py file of the add-on.  
+   2. Launch Blender and navigate to Edit > Preferences > Add-ons.  
+   3. Select Install and locate the downloaded file.  
+   4. Activate the add-on by ticking the adjacent box in the list.  
 
 ### How to Use
    Through User Interface  
