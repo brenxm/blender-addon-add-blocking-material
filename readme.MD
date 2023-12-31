@@ -21,10 +21,10 @@ The "Block Material" add-on is a practical tool for Blender users, designed to e
    Default Binding: Ctrl + Alt + Shift + 9  
    This shortcut can be modified in Blender's Keymap settings.  
 
-###Configuration Parameters
-   Color Seed: An integer value (1 to 1000) affecting base color generation (default: 1).  
-   Saturation: A floating-point value (0.1 to 1.0) to set color saturation (default: 0.65).  
-   Value: A floating-point value (0.1 to 1.0) to adjust the brightness of the color (default: 0.5).  
+### Configuration Parameters
+   + Color Seed: An integer value (1 to 1000) affecting base color generation (default: 1).  
+   + Saturation: A floating-point value (0.1 to 1.0) to set color saturation (default: 0.65).  
+   + Value: A floating-point value (0.1 to 1.0) to adjust the brightness of the color (default: 0.5).  
 
 ### Compatibility and Credits
    Compatible with Blender Version: 4.0.0 or higher  
