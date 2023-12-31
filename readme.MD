@@ -1,6 +1,6 @@
-# Add Blocking Material Add-on for Blender
-## Description
-    The "Add Blocking Material" add-on is a practical tool for Blender users, designed to enhance workflow efficiency. It automatically assigns a distinct blocking material to mesh objects lacking existing materials. This feature is especially useful during the initial phases of modeling and in complex scenes, ensuring all objects are easily identifiable.
+## Block Material (Blender add-on)
+### Description
+The "Block Material" add-on is a practical tool for Blender users, designed to enhance workflow efficiency. It automatically assigns a distinct blocking material to mesh objects lacking existing materials. This feature is especially useful during the initial phases of modeling and in complex scenes, ensuring all objects are easily identifiable.
 
 Key Features
     Automatic Material Assignment: Assigns a unique blocking material to unmaterialized mesh objects.
