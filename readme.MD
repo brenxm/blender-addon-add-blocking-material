@@ -16,6 +16,8 @@ The "Block Material" add-on is a practical tool for Blender users, designed to e
 
 ### How to Use
    Through User Interface  
+    ![Object mode, unselected objects](/videos/all_unselected.gif)
+
    Locate the add-on using the Spacebar Search by entering "Add block material".  
    Keyboard Shortcut  
    Default Binding: Ctrl + Alt + Shift + 9  
