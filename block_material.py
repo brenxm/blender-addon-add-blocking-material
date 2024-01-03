@@ -75,7 +75,6 @@ class BlockingMaterial(bpy.types.Operator):
 
                     # Handle new material if object has no existing materials
                     else:
-                        new_material = self._generate_material()
                         obj.data.materials.append(new_material)
 
                 # Revert back to selecting all objects
@@ -170,7 +169,7 @@ add_on_keymaps = []
 
 def menu_func(self, context):
     self.layout.operator(BlockingMaterial.bl_idname)
-
+    
 
 def register():
     bpy.utils.register_class(BlockingMaterial)
