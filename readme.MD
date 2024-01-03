@@ -9,16 +9,23 @@ The "Block Material" add-on is a practical tool for Blender users, designed to e
    + HSV Color Adjustment: Provides control over the saturation and value of generated colors, enabling versatility in material appearance  
 
 ### Installation Steps
-   1. Download the .py file of the add-on.  
+   1. Download the block_material.py file of the add-on.  
    2. Launch Blender and navigate to Edit > Preferences > Add-ons.  
    3. Select Install and locate the downloaded file.  
    4. Activate the add-on by ticking the adjacent box in the list.  
 
 ### How to Use
    Through User Interface  
-    ![Object mode, unselected objects](/gif/editmesh.gif)
+   + Object mode (unselected object)
+   ![Object mode, unselected objects](/gif/allunselected.gif)
 
-   Locate the add-on using the Spacebar Search by entering "Add block material".  
+   +  (selected object)
+   ![Object mode, unselected objects](/gif/selected.gif)
+
+   + Edit mode (partial faces selected)
+   ![Object mode, unselected objects](/gif/editmesh.gif)
+
+   Alternatively, you can use the spacebar search by typing and selecting 'add blocking material' or
    Keyboard Shortcut  
    Default Binding: Ctrl + Alt + Shift + 9  
    This shortcut can be modified in Blender's Keymap settings.  
