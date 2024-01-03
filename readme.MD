@@ -36,7 +36,7 @@ The "Block Material" add-on is a practical tool for Blender users, designed to e
    Add-on Version: 1.0  
 
 ### Support and Feedback
-   For inquiries, issues, or suggestions, please reach out to the author or submit a query on the repository page, if available.  
+   For inquiries, issues, or suggestions, please reach out or submit a repository query.
 
 ### License Information
 ### MIT License
